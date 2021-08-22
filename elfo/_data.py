@@ -32,7 +32,7 @@ class OSABI(_Enum):
     HP_UX = 0x01
     NETBSD = 0x02
     LINUX = 0x03
-    GNU_HURD = 0x04
+    GNU_HURD = 0x03
     SOLARIS = 0x06
     AIX = 0x07
     IRIX = 0x08
